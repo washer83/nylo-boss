@@ -1,0 +1,6 @@
+setup_name,         avg_duration,   std_dev,    minimum,    maximum
+sang_5way_bp,       131.774,        10.802,     98,         173
+sang_5way_dart,     132.219,        10.681,     98,         179
+shadow_5way,        134.541,        10.789,     98,         178
+shadow_8way_boots,  132.369,        10.636,     93,         173
+shadow_8way_ring,   132.121,        10.429,     93,         175
